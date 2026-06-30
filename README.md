@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rojen Dangol</h1>
-<h3 align="center">Aspiring Python Developer | Code Explorer | Turning Curiosity into Code</h3>
+<h3 align="center">Aspiring .Net Developer | Code Explorer | Turning Curiosity into Code</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rojendangol&label=Profile%20views&color=0e75b6&style=flat" alt="rojendangol" /> </p>
 
-- 🌱 I’m currently learning **Django, ML/AI**
+- 🌱 I’m currently learning **BLazor, .NetCore**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RojenDangol?tab=repositories](https://github.com/RojenDangol?tab=repositories)
 
-- 💬 Ask me about **django, python and flask**
+- 💬 Ask me about **Blazor, web Api and .Net**
 
 - 📫 How to reach me **rojendangol44@gmail.com**
 
